@@ -31,5 +31,5 @@ O serviço é configurado através de variáveis de ambiente:
 3. instale o tsx para rodar o arquivos typescript no nodejs
 4. Em seguida roda o programa
     ```bash
-   npm install
+   npm run dev
 
